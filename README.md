@@ -59,6 +59,7 @@ The predictions and trends are visualized and saved in the `results/figures/` di
    - `numpy`
    - `matplotlib`
    - `seaborn`
+   - 'keras'
 
 ## Future Work
 - Integrate the forecast models with the smart agriculture website for real-time predictions.
