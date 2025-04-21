@@ -47,7 +47,7 @@
 ### 5. 📊 Evaluation & Visualization
 - Compared predicted values against historical trends.
 - Visualized results using **Matplotlib**, highlighting both historical and future crop production trends.
-- Saved plots in the `results/figures/` folder for each crop.
+- Saved plots in the `results` folder.
 
 > 📌 The use of LSTM was critical for learning long-term dependencies — something traditional models fail at — making it ideal for forecasting crop yields based on decades of historical data.
 
