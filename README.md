@@ -70,8 +70,6 @@ Example Output (Optional):
 
 > These predictions are valuable for understanding long-term yield patterns and enhancing agricultural planning.
 
----
-
 ## Technologies Used
 
 - **Language**: Python 3.x  
@@ -80,7 +78,7 @@ Example Output (Optional):
   - `pandas`, `numpy`
   - `matplotlib`, `seaborn`
 - **IDE**: Jupyter Notebook  
-- 📄 All dependencies listed in `requirements.txt`
+
 
 ## Future Work
 
@@ -103,5 +101,3 @@ Example Output (Optional):
 ##  License
 
 This project is licensed under the **Apache 2.0 License**
-. 
-
