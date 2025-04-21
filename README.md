@@ -8,6 +8,7 @@
 - [Objectives](#objectives)
 - [Data](#data)
 - [Methodology](#methodology)
+- [Model Workflow Diagram](#model-workflow-diagram)
 - [Model](#model)
 - [Results](#results)
 - [Technologies Used](#technologies-used)
@@ -50,6 +51,13 @@
 - Saved plots in the `results` folder.
 
 > 📌 The use of LSTM was critical for learning long-term dependencies — something traditional models fail at — making it ideal for forecasting crop yields based on decades of historical data.
+
+## Model Workflow Diagram
+
+This diagram illustrates the step-by-step pipeline used to train and deploy the LSTM model for crop yield forecasting.
+
+![LSTM Crop Pipeline](results/crop_lstm_pipeline.png)
+
 
 # Model
 
