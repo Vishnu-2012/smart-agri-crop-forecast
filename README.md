@@ -4,14 +4,14 @@
 -The project leverages **Long Short-Term Memory (LSTM)** networks to predict future crop production based on historical data. The results provide valuable insights into crop yields, helping farmers, policymakers, and other stakeholders make informed decisions.
 
 ## 🗂️ Table of Contents
-- [Overview](#-overview)
-- [Objectives](#-objectives)
-- [Data](#-data)
-- [Methodology](#-methodology)
-- [Model](#-model)
-- [Results](#-results)
-- [Technologies Used](#-technologies-used)
-- [Future Work](#-future-work)
+- [Overview](#overview)
+- [Objectives](#objectives)
+- [Data](#data)
+- [Methodology](#methodology)
+- [Model](#model)
+- [Results](#results)
+- [Technologies Used](#technologies-used)
+- [Future Work](#future-work)
 
 ## Objectives
 - 🧠 Predict future crop production using historical yield data
