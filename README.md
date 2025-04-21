@@ -63,10 +63,7 @@ This project uses **LSTM neural networks**, specifically designed to learn from 
 # 📈 Results
 
 Visual trend plots and predictions are stored in:
-results/figures/
-
-Example Output (Optional):
-![Tomato Forecast](results/figures/tomato_forecast.png)
+results directory
 
 > These predictions are valuable for understanding long-term yield patterns and enhancing agricultural planning.
 
